@@ -36,7 +36,6 @@ $ npx react-native-rename <newName>
 5. Install packages
 
 ```bash
-cd my-app
 npm install
 ```
 
