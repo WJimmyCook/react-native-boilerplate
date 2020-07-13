@@ -1,5 +1,7 @@
 # React Native Boilerplate
 
+Libraries included
+
 - [React Native Navigation v6](https://github.com/wix/react-native-navigation) - native navigation experience for iOS and Android
 - [React Native Navigation Hooks](https://github.com/underscopeio/react-native-navigation-hooks) - React hooks for React Native Navigation
 - [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons) - large variety icons for React Native
@@ -42,7 +44,7 @@ npm install
 6. Install Pods
 
 ```bash
-cd ios/ && pod install
+cd ios/ && pod install && cd ..
 ```
 
 7. Run it!
