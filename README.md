@@ -1,6 +1,4 @@
----
-
-## React Native starter
+# React Native Boilerplate
 
 - [React Native Navigation v6](https://github.com/wix/react-native-navigation) - native navigation experience for iOS and Android
 - [React Native Navigation Hooks](https://github.com/underscopeio/react-native-navigation-hooks) - React hooks for React Native Navigation
@@ -8,8 +6,6 @@
 - [React Native Gesture Handler](https://github.com/kmagiera/react-native-gesture-handler) - native touches and gesture for React Native
 - [Reanimated](https://github.com/software-mansion/react-native-reanimated) - native ui animations
 - [Async Storage](https://github.com/react-native-community/async-storage) - easy to use persistent storage system for React Native
-
----
 
 ## Getting Started
 
